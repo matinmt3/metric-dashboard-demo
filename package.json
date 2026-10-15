@@ -1,0 +1,14 @@
+{
+  "name": "metric-dashboard-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "داشبورد مفهومی فارسی با نمودار، بازهٔ زمانی و جدول پروژه‌ها؛ تمام داده‌ها نمایشی‌اند.",
+  "author": "Mohammad Matin Kharazmi",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
